@@ -1242,6 +1242,25 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-uO1z8GEsqB {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/octo8r-jelly-world-site.jpg-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-uO1z8GEsqB .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-uO1z8GEsqB .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-uO1z8GEsqB .mbr-text,
+.cid-uO1z8GEsqB .mbr-section-btn {
+  text-align: left;
+}
 .cid-uMXctVYHeI {
   padding-top: 15px;
   padding-bottom: 15px;
