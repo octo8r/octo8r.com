@@ -1242,6 +1242,26 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-v0iftQcxKX {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/octo8r-octobillion-background-1280x720.png");
+}
+@media (min-width: 992px) {
+  .cid-v0iftQcxKX .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-v0iftQcxKX .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-v0iftQcxKX .mbr-text,
+.cid-v0iftQcxKX .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
+}
 .cid-uXU46uxfwb {
   padding-top: 15px;
   padding-bottom: 15px;
