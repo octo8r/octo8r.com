@@ -1242,6 +1242,25 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-v2san6msAe {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/octo8r-dreamr-2.jpg-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-v2san6msAe .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-v2san6msAe .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-v2san6msAe .mbr-text,
+.cid-v2san6msAe .mbr-section-btn {
+  text-align: left;
+}
 .cid-v0BD1mEZk3 {
   padding-top: 15px;
   padding-bottom: 15px;
