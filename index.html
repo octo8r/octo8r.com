@@ -214,11 +214,11 @@
 
 <script>
   let currentSlide = 0;
-  const totalSlides = 4; // Update to match your slide count
+  const totalSlides = 5; // Update to match your slide count
 
   function goToSlide(n) {
     currentSlide = n;
-    document.getElementById('slides').style.transform = `translateX(-${currentSlide * 25}%)`;
+    document.getElementById('slides').style.transform = `translateX(-${currentSlide * 20}%)`;
     
     // Update dot colors
     document.querySelectorAll('#dots button').forEach((dot, index) => {
