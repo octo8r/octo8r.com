@@ -1242,6 +1242,26 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-vatIsxtxRy {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/ps-20-1978-reborn-logo-2.jpg-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-vatIsxtxRy .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-vatIsxtxRy .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-vatIsxtxRy .mbr-text,
+.cid-vatIsxtxRy .mbr-section-btn {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-v8St5tXSj8 {
   padding-top: 15px;
   padding-bottom: 15px;
