@@ -1242,6 +1242,25 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-vcfLCNAfYi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/octo8r-xpression3-site.jpg-2-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-vcfLCNAfYi .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-vcfLCNAfYi .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-vcfLCNAfYi .mbr-text,
+.cid-vcfLCNAfYi .mbr-section-btn {
+  text-align: left;
+}
 .cid-vatIsxtxRy {
   padding-top: 15px;
   padding-bottom: 15px;
