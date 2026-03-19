@@ -1242,6 +1242,25 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-vegRqfEkrU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/72-oberhausen-pulchet-site.jpg-2-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-vegRqfEkrU .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-vegRqfEkrU .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-vegRqfEkrU .mbr-text,
+.cid-vegRqfEkrU .mbr-section-btn {
+  text-align: left;
+}
 .cid-vcfLCNAfYi {
   padding-top: 30px;
   padding-bottom: 30px;
