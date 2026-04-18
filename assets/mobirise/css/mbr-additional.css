@@ -1242,6 +1242,25 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #ffffff;
 }
+.cid-vhbKP7duzl {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/massive-x-neoned-site.jpg-2-1280x720.jpeg");
+}
+@media (min-width: 992px) {
+  .cid-vhbKP7duzl .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-vhbKP7duzl .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-vhbKP7duzl .mbr-text,
+.cid-vhbKP7duzl .mbr-section-btn {
+  text-align: left;
+}
 .cid-vegRqfEkrU {
   padding-top: 30px;
   padding-bottom: 30px;
